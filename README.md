@@ -1,6 +1,6 @@
 Rclone Auto-Mount on Windows
 
-This project automates mounting cloud storage as Windows drives using Rclone and a .bat script.
+This File automates mounting cloud storage as Windows drives using Rclone and a .bat script.
 It allows you to access your cloud storage (Google Drive, OneDrive, etc.) just like a local disk in File Explorer.
 
 📌 Features
